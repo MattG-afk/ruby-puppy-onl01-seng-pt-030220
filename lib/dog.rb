@@ -14,7 +14,7 @@ class Dog
   end
   
   def self.print_all
-    puts "#{\n@@all}"
+    puts "#{\n/@@all}"
   end
   
   
