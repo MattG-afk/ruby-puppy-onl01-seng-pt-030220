@@ -1,6 +1,11 @@
 class Dog 
+  @@all=[]
+  
+  
   def initialize
-end
+    
+    self
+  end
   
   
   
